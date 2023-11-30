@@ -1,0 +1,13 @@
+In order to use the program:
+There are 5 different commands used here, 
+1. l
+2. a s u p
+3. r s
+4. r s u
+5. x
+Where s is the website inputted, u is the username, and p is the password being stored.
+As such, l will bring up a list of the currently stored passwords
+a will add a username password pair per website
+r will remove a website, where r s will remove a portion if there is only 1 user for that website
+r s u will remove 1 username password pair per website mentioned
+x will close out the program, and create a .txt file to be observed in the end.
